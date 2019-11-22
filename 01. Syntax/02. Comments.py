@@ -1,0 +1,1 @@
+# This is a comment. It can be useful to write comments to explain what your program does, or to help with Psudo coding
